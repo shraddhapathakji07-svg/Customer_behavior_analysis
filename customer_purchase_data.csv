@@ -1,0 +1,51 @@
+CustomerID,Age,Gender,Item,Purchase_Category,Purchase_Location,Size,Color,Season,Review_Rate,Subscription_Status,Shipping_Type,Discount_Amount,PromoCodeUsed,PreviousPurchases,Payment_Method,Frequency_of_Purchases, Purchase_amount
+CUST001,19,Female,Jeans,Clothing,Gurugram,M,Blue,Spring,5,Yes,Next Day Air,0,Yes,2,Debit Card,Monthly,54
+CUST002,56,Male,Shirt,Clothing,Dehradun,M,Brown,Winter,2,No,Free Shipping,0,Yes,22,PayPal,Quarterly,56
+CUST003,27,Male,Dress,Clothing,Hyderabad,S,White,Winter,1,No,Free Shipping,100,Yes,23,PayPal,Weekly,78
+CUST004,23,Female,Sandals,Footwear,Chandigarh,L,Beige,Summer,1,Yes,Express,100,Yes,7,Credit Card,Annually,90
+CUST005,47,Female,Dress,Clothing,Bangalore,L,Grey,Summer,3,Yes,Express,300,Yes,5,PayPal,Annually,34
+CUST006,58,Male,Dress,Clothing,Hyderabad,S,Red,Spring,3,No,Free Shipping,0,Yes,18,UPI,Monthly,58
+CUST007,43,Female,Hoodie,Clothing,Bangalore,L,Blue,Summer,5,No,Next Day Air,200,No,7,Debit Card,Annually,23
+CUST008,21,Male,Jeans,Clothing,Bangalore,M,Pink,Spring,4,No,Next Day Air,300,No,17,Credit Card,Weekly,45
+CUST009,35,Female,Shirt,Clothing,Mumbai,L,Pink,Summer,4,Yes,Free Shipping,300,Yes,16,Credit Card,Quarterly,67
+CUST010,56,Male,Shirt,Clothing,Bangalore,L,Blue,Spring,5,No,Next Day Air,0,Yes,11,UPI,Monthly,89
+CUST011,33,Male,T-shirt,Clothing,Mumbai,XL,White,Summer,2,No,Express,100,No,6,Cash on Delivery,Monthly,90
+CUST012,43,Female,Dress,Clothing,Jaipur,XXL,Yellow,Spring,2,Yes,Standard,150,Yes,18,Cash on Delivery,Monthly,43
+CUST013,32,Male,Coat,Clothing,Mumbai,S,Red,Spring,1,No,Standard,300,Yes,8,PayPal,Monthly,34
+CUST014,26,Female,Shirt,Clothing,Gurugram,XL,Pink,Summer,1,Yes,Next Day Air,150,No,13,PayPal,Weekly,65
+CUST015,21,Female,Jeans,Clothing,Hyderabad,S,Red,Summer,2,No,Express,200,Yes,8,PayPal,Monthly,76
+CUST016,46,Male,Jeans,Clothing,Delhi,XXL,Black,Spring,2,Yes,Next Day Air,250,No,6,PayPal,Weekly,88
+CUST017,42,Male,Jacket,Clothing,Lucknow,L,Yellow,Fall,4,No,Express,50,No,6,Credit Card,Weekly,66
+CUST018,21,Male,Sneakers,Footwear,Chandigarh,XL,Brown,Summer,1,Yes,Express,0,Yes,21,Debit Card,Annually,77
+CUST019,54,Male,Jeans,Clothing,Chandigarh,XXL,Black,Spring,4,No,Free Shipping,50,No,7,UPI,Annually,34
+CUST020,60,Female,Jacket,Clothing,Jaipur,L,White,Spring,4,Yes,Standard,300,Yes,16,UPI,Monthly,60
+CUST021,22,Male,Sneakers,Footwear,Hyderabad,L,Blue,Winter,5,No,Standard,300,No,21,Credit Card,Monthly,78
+CUST022,25,Male,Dress,Clothing,Dehradun,M,Green,Fall,5,Yes,Free Shipping,50,No,16,PayPal,Quarterly,65
+CUST023,23,Female,T-shirt,Clothing,Pune,S,Black,Fall,2,No,Express,250,No,17,Credit Card,Weekly,63
+CUST024,27,Male,Jeans,Clothing,Hyderabad,XXL,Brown,Summer,4,Yes,Standard,100,No,25,Credit Card,Quarterly,64
+CUST025,33,Male,Sweater,Clothing,Hyderabad,XXL,Pink,Summer,2,Yes,Express,200,Yes,5,UPI,Annually,61
+CUST026,35,Male,Sweater,Clothing,Mumbai,XL,Black,Winter,2,Yes,Next Day Air,150,No,25,Debit Card,Monthly,67
+CUST027,60,Male,T-shirt,Clothing,Lucknow,L,Green,Spring,3,No,Next Day Air,300,No,0,Credit Card,Quarterly,87
+CUST028,55,Female,Jacket,Clothing,Delhi,S,Beige,Winter,3,No,Next Day Air,300,Yes,12,Cash on Delivery,Monthly,86
+CUST029,20,Female,Dress,Clothing,Delhi,XXL,Brown,Summer,3,No,Standard,150,No,21,Credit Card,Quarterly,84
+CUST030,37,Female,Shirt,Clothing,Hyderabad,XL,Green,Summer,2,No,Next Day Air,0,No,12,Cash on Delivery,Weekly,56
+CUST031,36,Male,Dress,Clothing,Lucknow,XXL,Beige,Fall,4,No,Next Day Air,50,No,25,Debit Card,Weekly,67
+CUST032,50,Female,Dress,Clothing,Mumbai,M,Green,Summer,2,Yes,Standard,0,Yes,15,Cash on Delivery,Weekly,89
+CUST033,44,Male,Hoodie,Clothing,Lucknow,XL,Pink,Summer,2,Yes,Standard,200,Yes,5,Cash on Delivery,Annually,78
+CUST034,53,Male,T-shirt,Clothing,Mumbai,XL,Blue,Winter,5,No,Next Day Air,300,No,17,PayPal,Monthly,56
+CUST035,46,Female,Hoodie,Clothing,Gurugram,L,Brown,Winter,2,No,Next Day Air,0,No,7,UPI,Quarterly,47
+CUST036,52,Male,Sneakers,Footwear,Bangalore,M,Red,Winter,2,Yes,Standard,200,No,10,Cash on Delivery,Annually,28
+CUST037,21,Male,Sandals,Footwear,Lucknow,XL,Beige,Spring,5,No,Next Day Air,0,No,9,PayPal,Annually,78
+CUST038,52,Male,Shirt,Clothing,Jaipur,M,Green,Winter,4,Yes,Next Day Air,150,No,23,Debit Card,Annually,76
+CUST039,57,Male,Jacket,Clothing,Lucknow,XXL,Beige,Spring,1,No,Express,250,Yes,1,UPI,Annually,45
+CUST040,31,Female,Sneakers,Footwear,Hyderabad,L,Pink,Fall,4,No,Standard,250,Yes,23,Cash on Delivery,Weekly,67
+CUST041,32,Male,Sneakers,Footwear,Delhi,S,Red,Summer,1,Yes,Express,0,No,21,Credit Card,Monthly,98
+CUST042,34,Female,Hoodie,Clothing,Bangalore,XXL,Beige,Spring,2,No,Standard,0,No,18,PayPal,Annually,34
+CUST043,22,Male,Sweater,Clothing,Mumbai,L,Beige,Spring,5,Yes,Free Shipping,300,No,21,UPI,Weekly,90
+CUST044,59,Female,Shirt,Clothing,Delhi,XL,Yellow,Spring,4,No,Next Day Air,0,No,5,Cash on Delivery,Quarterly,23
+CUST045,52,Female,Coat,Clothing,Jaipur,XL,Beige,Fall,3,Yes,Standard,100,No,7,PayPal,Annually,34
+CUST046,19,Female,Sneakers,Footwear,Hyderabad,M,Yellow,Summer,3,No,Free Shipping,100,No,17,Credit Card,Monthly,34
+CUST047,33,Female,Jeans,Clothing,Jaipur,XXL,Red,Winter,4,No,Standard,0,No,7,PayPal,Monthly,56
+CUST048,60,Female,Dress,Clothing,Jaipur,XXL,Brown,Fall,4,No,Free Shipping,250,No,9,UPI,Monthly,78
+CUST049,30,Female,Jeans,Clothing,Mumbai,XXL,Blue,Summer,2,No,Free Shipping,300,No,3,Debit Card,Quarterly,23
+CUST050,41,Male,Sweater,Clothing,Pune,S,Brown,Summer,3,Yes,Standard,300,No,22,Debit Card,Annually,78
